@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=CoderCriss&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20Frontend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Chris+%F0%9F%91%8B;Self-taught+HTML+%7C+CSS+%7C+JavaScript;Currently+leveling+up+with+React+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+clean%2C+responsive+webapps and UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Chris+%F0%9F%91%8B;Self-taught+HTML+%7C+CSS+%7C+JavaScript;Currently+leveling+up+with+React+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+clean%2C+responsive+webapps+and+UIs" alt="Typing SVG" />
 </a>
 
 <br/>
