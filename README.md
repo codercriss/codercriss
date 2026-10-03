@@ -70,7 +70,7 @@ No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.ver
 - 🚀 One-click deploy
 - 🤝 Live collaboration
 - 🎨 SVG editor
-- 🧘 Zen mode for distraction-free coding
+- 🧘 Zen mode for distraction-free coding and many more features like terminal, console etc
 
 <div align="center">
 
