@@ -11,7 +11,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CoderCriss&label=Profile%20Views&color=6C63FF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/CoderCriss?label=Followers&style=for-the-badge&color=00D4FF&logo=github)
-![Stars](https://img.shields.io/github/stars/CoderCriss?label=Stars&style=for-the-badge&color=6C63FF&logo=github)
 
 </div>
 
@@ -71,11 +70,30 @@ No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.ver
 - 🚀 One-click deploy
 - 🤝 Live collaboration
 - 🎨 SVG editor
-- 🧘 Zen mode for distraction-free coding and many more capabilities
+- 🧘 Zen mode for distraction-free coding
 
 <div align="center">
 
 [![Try CodeMini IDE](https://img.shields.io/badge/Try%20it%20live-CodeMini%20IDE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://the-code-mini-native-ide.vercel.app)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=CoderCriss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderCriss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=CoderCriss&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" alt="streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CoderCriss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies" />
 
 </div>
 
