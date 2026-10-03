@@ -74,7 +74,7 @@ No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.ver
 
 <div align="center">
 
-[![Try CodeMini IDE](https://img.shields.io/badge/Try%20it%20live-CodeMini%20IDE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://the-code-mini-native-ide.vercel.app)
+[![Try CodeMini IDE](https://img.shields.io/badge/Try%20it%20live-CodeMini%20IDE-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://the-code-mini-ide.vercel.app)
 
 </div>
 
