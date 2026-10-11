@@ -1,10 +1,10 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=CoderCriss&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20Frontend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=CoderCriss&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder%20%7C%20AI-Assisted%20Builder&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Chris+%F0%9F%91%8B;Self-taught+HTML+%7C+CSS+%7C+JavaScript;Currently+leveling+up+with+React+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+clean%2C+responsive+webapps+and+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Chris+%F0%9F%91%8B;Vibe+coder+building+with+AI+%E2%9C%A8;HTML+%7C+CSS+%7C+JavaScript+%7C+Learning+React+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+clean%2C+responsive+webapps+and+UIs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,17 +18,26 @@
 
 ## 👋 About Me
 
-I'm **Chris**, a self-taught frontend developer who fell in love with the web one `<div>` at a time. No bootcamp, no classroom, just curiosity, late nights, and a lot of "why isn't this centered?" moments.
+I'm **Chris**, a **vibe coder**: I build web apps by describing what I want, working with AI as my pair programmer, and iterating until it feels right. No bootcamp, no classroom, just curiosity, late nights, and a lot of "why isn't this centered?" moments.
 
-I started with **HTML and CSS**, got hooked on bringing pages to life with **JavaScript**, and I'm now stepping into the **React** world to build faster, cleaner, and more scalable interfaces.
+I started with **HTML and CSS**, got hooked on bringing pages to life with **JavaScript**, and now I'm using AI to move faster while learning **React** and understanding the code I ship.
 
 |  |  |
 |:--|:--|
-| 🧠 **How I learn** | By building, breaking, and fixing |
-| ⚛️ **Right now** | Getting comfortable with React components, props, state and hooks |
+| 🧠 **How I build** | Idea → prompt → generate → review → fix → ship |
+| ⚛️ **Right now** | Learning React components, props, state and hooks, not just generating them |
 | 🎨 **What I enjoy** | Clean layouts, smooth interactions, and responsive design |
-| 🌍 **My approach** | Learn in public, stay consistent, keep shipping |
+| 🌍 **My approach** | Build in public, stay consistent, keep shipping |
 | 🤝 **Open to** | Collaborations, code reviews, and open-source contributions |
+
+---
+
+## ✨ What Vibe Coding Means to Me
+
+- 💬 I describe the vision, AI helps write the code, and I steer the result
+- 🔍 I read, test, and tweak what gets generated so I actually learn from it
+- 🐛 When something breaks, I debug it with AI and take notes on what went wrong
+- 🚀 I care more about shipping real things than about writing every line by hand
 
 ---
 
@@ -48,7 +57,7 @@ I started with **HTML and CSS**, got hooked on bringing pages to life with **Jav
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="tools" />
 
-<a href="https://the-code-mini-native-ide.vercel.app">
+<a href="https://the-code-mini-ide.vercel.app">
   <img src="https://img.shields.io/badge/CodeMini%20IDE-My%20Own%20Editor-6C63FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="CodeMini IDE" />
 </a>
 
@@ -58,7 +67,7 @@ I started with **HTML and CSS**, got hooked on bringing pages to life with **Jav
 
 ## 💻 I Built My Own IDE
 
-No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.vercel.app)**, a code editor that runs right in the browser and works on mobile, so I can code from anywhere.
+No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-ide.vercel.app)** with AI as my coding partner: a code editor that runs right in the browser and works on mobile, so I can code from anywhere.
 
 **What's inside:**
 
@@ -70,7 +79,7 @@ No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.ver
 - 🚀 One-click deploy
 - 🤝 Live collaboration
 - 🎨 SVG editor
-- 🧘 Zen mode for distraction-free coding and many more features like terminal, console etc
+- 🧘 Zen mode for distraction-free coding, plus a terminal, console and many more features
 
 <div align="center">
 
@@ -103,13 +112,25 @@ No PC? No problem. I built **[CodeMini IDE](https://the-code-mini-native-ide.ver
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/Currently%20Learning-React-6C63FF?style=for-the-badge&logo=react&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Building%20in%20Public-00D4FF?style=for-the-badge&logo=github&logoColor=white)
-![Journey](https://img.shields.io/badge/Journey-Just%20Getting%20Started-6C63FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Vibe Coder](https://img.shields.io/badge/Identity-Vibe%20Coder-6C63FF?style=for-the-badge&logo=sparkfinder&logoColor=white)
+![Learning](https://img.shields.io/badge/Currently%20Learning-React-00D4FF?style=for-the-badge&logo=react&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building%20in%20Public-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
+
+## 🔁 My Workflow
+
+```mermaid
+graph LR
+    A[💡 Idea] --> B[💬 Prompt AI]
+    B --> C[⚙️ Generate Code]
+    C --> D[🔍 Review & Test]
+    D --> E[🚀 Ship]
+    D -->|Fix & refine| B
+    style B fill:#6C63FF,stroke:#fff,color:#fff
+```
 
 ## 📚 My Learning Path
 
@@ -122,28 +143,3 @@ graph LR
     D --> F[TypeScript]
     style D fill:#6C63FF,stroke:#fff,color:#fff
 ```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<!-- Replace the links below with your own -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-CoderCriss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderCriss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-⭐ **If you like what you see, drop a star on my repos!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=120&section=footer" alt="footer" />
-
-</div>
